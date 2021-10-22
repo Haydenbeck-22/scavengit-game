@@ -3,7 +3,8 @@
 A game for learning collaborative git. This is a co-op game meant for 2-4 player teams. It has 3 levels of difficulty and covers all content for CPNT-201 git.
 
 ## Team Members
-Hayden 
+
+Hayden
 Filora
 Mysia
 Jean-Marc
@@ -17,7 +18,9 @@ Jean-Marc
 
 1. Commit messages should be less than one sentence detailing only what was changed
 2. Use pull requests to merge code to master
-3. Commit changes individually 
+3. Commit changes individually
+
+:)
 
 ---
 
