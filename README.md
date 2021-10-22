@@ -4,15 +4,15 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Team Members
 
-Hayden
-Filora
-Mysia
-Jean-Marc
-(Include name as a link to the person's github repo)
+- Hayden
+- Filora
+- Mysia
+- Jean-Marc
+  (Include name as a link to the person's github repo)
 
-- Maintainer: github.com/Haydenbeck-22
-- Collaborator: github.com/aeoyu
-- Contributor: github.com/Mysia14 , github.com/QDetective
+- Maintainer: [Hayden](github.com/Haydenbeck-22)
+- Collaborator: [Filora](github.com/aeoyu)
+- Contributor: [Mysia](github.com/Mysia14) , [Jean Marc](github.com/QDetective)
 
 ## Rules
 
