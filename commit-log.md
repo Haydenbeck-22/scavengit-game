@@ -16,3 +16,5 @@
 - Pull request CSS edit to the page you are a contributor [024eec](https://github.com/Mysia14/cpnt201-a4/pull/1/commits/024eecc0a21dbbc278d872c0a158b571a83e7587)
 
 - Added commit documentation file to repo [280944](https://github.com/Haydenbeck-22/scavengit-game/commit/28094478d9ee2afa8a81eed040785cb60400061a)
+
+- Resolved merge conflict commit [d6081d](https://github.com/Haydenbeck-22/scavengit-game/commit/d6081d9b93da7ac399e8324802d8bd65d62881d8)
