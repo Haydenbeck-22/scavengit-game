@@ -9,8 +9,8 @@
 
 - Add commit documentation to gitignore  [f5b366](https://github.com/Haydenbeck-22/scavengit-game/commit/f5b3661fb9db3f4fa5fd763ddf8ac240e0d60015)
 
--Merge pull request into your repo  [f52d5d](https://github.com/Haydenbeck-22/scavengit-game/commit/f52d5d7560cb359e949981d3a5407595b364f2b9)
+- Merge pull request into your repo  [f52d5d](https://github.com/Haydenbeck-22/scavengit-game/commit/f52d5d7560cb359e949981d3a5407595b364f2b9)
 
 - Pull request HTML edit to the page you are a contributor [be27c0](https://github.com/Haydenbeck-22/cpnt201-a4/commit/be27c02f08b00a3197d48099001dbeb0c3d8abaf)
 
--Pull request CSS edit to the page you are a contributor [024eec](https://github.com/Mysia14/cpnt201-a4/pull/1/commits/024eecc0a21dbbc278d872c0a158b571a83e7587)
+- Pull request CSS edit to the page you are a contributor [024eec](https://github.com/Mysia14/cpnt201-a4/pull/1/commits/024eecc0a21dbbc278d872c0a158b571a83e7587)
