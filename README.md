@@ -9,10 +9,10 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 (Include name as a link to the person's github repo)
 
 - Maintainer: [Hayden](https://github.com/Haydenbeck-22)
-- Collaborator: [Filora](https://github.com/aeoyu)
+- Collaborator: [Jean Marc](https://github.com/QDetective)
 - Contributor: [Mysia](https://github.com/Mysia14) , [Jean Marc](https://github.com/QDetective)
 
-## Rules
+## Rule
 
 1. Commit messages should be less than one sentence detailing only what was changed
 2. Use pull requests to merge code to master
