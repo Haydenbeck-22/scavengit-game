@@ -16,7 +16,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Rules
 
-1. Commit messages should be less than one sentence detailing only what was changed
+1. Commit messages should be less than one sentence describing only what was changed
 2. Use pull requests to merge code to master
 3. Commit changes individually
 
